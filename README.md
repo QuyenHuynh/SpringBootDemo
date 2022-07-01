@@ -1,7 +1,7 @@
-# SpringBootDemo
+# Spring Boot Demos 
 
-- SpringBootDemo1 - Student courses API 
-- SpringBootDemo1 - Employee department API
+- Spring Boot Demo 1 - Student courses API 
+- Spring Boot Demo 2 - Employee department API
 
 
 Dependencies:
