@@ -19,7 +19,7 @@ public class Course {
         this.instructor = instructor;
     }
 
-    public int getCourseid() {
+    public int getCourse_Id() {
         return course_id;
     }
 
